@@ -1,0 +1,4 @@
+CREATE DATABASE mysql_learn;
+
+
+CREATE DATABASE IF NOT EXISTS mysql_learn;

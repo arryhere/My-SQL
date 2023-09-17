@@ -1,0 +1,9 @@
+- Windows
+  - Install Path:
+    - C:\Program Files\MySQL\MySQL Server 8.1
+  - Connection
+    - host      : locahost
+    - port      : 3306
+    - user      : root
+    - password  : mysql
+    - db        : mysql_learn
